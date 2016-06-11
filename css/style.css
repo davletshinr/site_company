@@ -757,7 +757,7 @@ color:white;
 }
 /*Медиазапросы*/
 
-@media screen and (max-width: 400px){	
+@media screen and (max-width: 480px){	
 	body{
 		font-size:50%;
 	}
@@ -837,7 +837,7 @@ color:white;
 }
 
 
-@media screen and (max-width: 768px){	
+@media screen and (max-width: 650px){	
 	body{
 		font-size:50%;
 	}
@@ -923,7 +923,9 @@ color:white;
 		height:50px;
 	}
 }
-
+@media screen and (max-width: 980px) {
+	
+}
 
 
 
