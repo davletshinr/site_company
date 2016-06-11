@@ -938,7 +938,7 @@ color:white;
 /*600px*/
 @media screen and (max-width: 600px){	
 	body{
-		font-size:8px;
+		font-size:10px;
 	}
 	.main_items {
 		margin-top:20%;
@@ -1028,7 +1028,7 @@ color:white;
 /*400px*/
 @media screen and (max-width: 400px){	
 	body{
-		font-size:6px;
+		font-size:8px;
 	}
 	.main_items {
 		margin-top:20%;
