@@ -1020,7 +1020,7 @@ color:white;
 /*400px*/
 @media screen and (max-width: 400px){	
 	body{
-		font-size:45%;
+		font-size:35%;
 	}
 	.main_items {
 		margin-top:20%;
