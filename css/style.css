@@ -938,7 +938,7 @@ color:white;
 /*600px*/
 @media screen and (max-width: 600px){	
 	body{
-		font-size:45%;
+		font-size:25%;
 	}
 	.main_items {
 		margin-top:20%;
