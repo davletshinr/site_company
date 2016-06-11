@@ -1014,13 +1014,21 @@ color:white;
 	.header_catalogs{
 		display:none;
 	}
+	
+	.footer_forms {
+		display:none;
+	}
+	
+	.footer_about{display:none;}
+	.footer_blocks{width:40%;}
+	footer {min-height:180px;}
 }
 
 
 /*400px*/
 @media screen and (max-width: 400px){	
 	body{
-		font-size:25%;
+		font-size:15%;
 	}
 	.main_items {
 		margin-top:20%;
@@ -1096,6 +1104,14 @@ color:white;
 	.header_catalogs{
 		display:none;
 	}
+	
+	.footer_forms {
+		display:none;
+	}
+	
+	.footer_about{display:none;}
+	.footer_blocks{width:40%;}
+	footer {min-height:180px;}
 }
 
 
