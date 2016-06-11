@@ -757,4 +757,8 @@ color:white;
 	.header_main {
 		width:100%;
 	}
+	
+	.main_item  {
+		float:none;
+	}
 }
