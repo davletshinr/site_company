@@ -759,6 +759,7 @@ color:white;
 	}
 	
 	.main_item  {
-		float:none;
+		clear:left;
+	float:right;
 	}
 }
