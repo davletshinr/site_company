@@ -757,84 +757,7 @@ color:white;
 }
 /*Медиазапросы*/
 
-@media screen and (max-width: 480px){	
-	body{
-		font-size:50%;
-	}
-	.main_items {
-		margin-top:20%;
-	}
-	.main_items_slider {
-		background-size:50%;
-		height:150px;
-	}
-	
-	.main_items_slider::before{
-		top:-28px;
-	}
 
-	.main_services_image {
-		display:none;
-	}
-	.puproses{
-		background-size:75%;
-		margin-top:200px;
-		height:150px;
-		background-position:150% 0%;
-	}
-	.puprose {
-		height:50px;
-	}
-	.puprose::after {
-		display:none;
-	}
-	
-	.puproses_description{
-		height:50px;
-	}
-	
-	.links{
-		width:20px;
-		height:20px;
-	}
-	.footer_form_e-mail{
-		width:65%;
-	}
-	.main_service::before {
-		background-size:70%;
-	}
-
-	
-	.main_service{margin-right:5%;}
-	
-	.main_item {
-		float:left;
-		width:100px;
-		background-position:40%;
-		margin-left:10%;
-		margin-top:10%;
-		
-	}
-	.main_item:after{
-		width:100px;
-	}
-	
-	.main_items_advice {
-		display:none;
-	}
-	
-	.main_menu {
-		display:none;
-	}
-	
-	.header_main {
-		width:100%;
-	}
-	
-	.header_catalogs{
-		display:none;
-	}
-}
 
 
 @media screen and (max-width: 650px){	
@@ -923,6 +846,87 @@ color:white;
 		height:50px;
 	}
 }
+
+@media screen and (max-width: 480px){	
+	body{
+		font-size:50%;
+	}
+	.main_items {
+		margin-top:20%;
+	}
+	.main_items_slider {
+		background-size:50%;
+		height:150px;
+	}
+	
+	.main_items_slider::before{
+		top:-28px;
+	}
+
+	.main_services_image {
+		display:none;
+	}
+	.puproses{
+		background-size:75%;
+		margin-top:200px;
+		height:150px;
+		background-position:150% 0%;
+	}
+	.puprose {
+		height:50px;
+	}
+	.puprose::after {
+		display:none;
+	}
+	
+	.puproses_description{
+		height:50px;
+	}
+	
+	.links{
+		width:20px;
+		height:20px;
+	}
+	.footer_form_e-mail{
+		width:65%;
+	}
+	.main_service::before {
+		background-size:70%;
+	}
+
+	
+	.main_service{margin-right:5%;}
+	
+	.main_item {
+		float:left;
+		width:100px;
+		background-position:40%;
+		margin-left:10%;
+		margin-top:10%;
+		
+	}
+	.main_item:after{
+		width:100px;
+	}
+	
+	.main_items_advice {
+		display:none;
+	}
+	
+	.main_menu {
+		display:none;
+	}
+	
+	.header_main {
+		width:100%;
+	}
+	
+	.header_catalogs{
+		display:none;
+	}
+}
+
+
 @media screen and (max-width: 980px) {
 	
 }
